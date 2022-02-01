@@ -1,0 +1,55 @@
+0000000000000000000000000000000000000000 34acd0f85252d64fc182a09e359edcfdac19cdad Jesus <jesflovel@gmail.com> 1643590917 -0600	commit (initial): Initial commit
+34acd0f85252d64fc182a09e359edcfdac19cdad 34acd0f85252d64fc182a09e359edcfdac19cdad Jesus <jesflovel@gmail.com> 1643590918 -0600	checkout: moving from master to develop
+34acd0f85252d64fc182a09e359edcfdac19cdad 34acd0f85252d64fc182a09e359edcfdac19cdad Jesus <jesflovel@gmail.com> 1643591015 -0600	checkout: moving from develop to feature/feature_branch
+34acd0f85252d64fc182a09e359edcfdac19cdad 29e5d5c7e769d13e2344dc4ea323078ff02bf42b Jesus <jesflovel@gmail.com> 1643591446 -0600	commit: Se creo el archivo practica y se cambio el titulo
+29e5d5c7e769d13e2344dc4ea323078ff02bf42b c1ff7ff2670af84f8300afcfc1b150ed259314fd Jesus <jesflovel@gmail.com> 1643595047 -0600	commit: Se agregaron titulo y subtitulo al cuerpo de la pagina
+c1ff7ff2670af84f8300afcfc1b150ed259314fd fc1c27575c9064087051363ab328f241505f2ca3 Jesus <jesflovel@gmail.com> 1643595199 -0600	commit: Se creo hoja de estilos y se aplicaron a la pagina
+fc1c27575c9064087051363ab328f241505f2ca3 544a0fa08f1af1487e2a27caabdf3203fa853bc3 Jesus <jesflovel@gmail.com> 1643595263 -0600	commit: Se agregaron parrafos al cuerpo
+544a0fa08f1af1487e2a27caabdf3203fa853bc3 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643595380 -0600	commit: Se aplicaron estilos a los parrafos
+36ec63e5faba181696fa2a852794a88ec29b307e 34acd0f85252d64fc182a09e359edcfdac19cdad Jesus <jesflovel@gmail.com> 1643595475 -0600	checkout: moving from feature/feature_branch to develop
+34acd0f85252d64fc182a09e359edcfdac19cdad 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643595484 -0600	merge feature/feature_branch: Fast-forward
+36ec63e5faba181696fa2a852794a88ec29b307e 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643595611 -0600	checkout: moving from develop to develop
+36ec63e5faba181696fa2a852794a88ec29b307e 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643595652 -0600	checkout: moving from develop to release/0.1.0
+36ec63e5faba181696fa2a852794a88ec29b307e 34acd0f85252d64fc182a09e359edcfdac19cdad Jesus <jesflovel@gmail.com> 1643595729 -0600	checkout: moving from release/0.1.0 to master
+34acd0f85252d64fc182a09e359edcfdac19cdad 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643595749 -0600	merge release/0.1.0: Fast-forward
+36ec63e5faba181696fa2a852794a88ec29b307e 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643596336 -0600	checkout: moving from master to hotfix/hotfix_branch
+36ec63e5faba181696fa2a852794a88ec29b307e 4e735d9cb53d9480f7586760a1668f042ce5a61b Jesus <jesflovel@gmail.com> 1643596484 -0600	commit: Se cambio el fondo de gris a azul
+4e735d9cb53d9480f7586760a1668f042ce5a61b 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643596529 -0600	checkout: moving from hotfix/hotfix_branch to master
+36ec63e5faba181696fa2a852794a88ec29b307e 24e3575d12ad07787fb61e0d05d29ed3dc9a1396 Jesus <jesflovel@gmail.com> 1643596529 -0600	merge hotfix/hotfix_branch: Merge made by the 'ort' strategy.
+24e3575d12ad07787fb61e0d05d29ed3dc9a1396 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643596635 -0600	checkout: moving from master to develop
+36ec63e5faba181696fa2a852794a88ec29b307e c593a03fd5f27abd0f35bff0c379a69a6f16a349 Jesus <jesflovel@gmail.com> 1643596635 -0600	merge hotfix_branch: Merge made by the 'ort' strategy.
+c593a03fd5f27abd0f35bff0c379a69a6f16a349 c593a03fd5f27abd0f35bff0c379a69a6f16a349 Jesus <jesflovel@gmail.com> 1643596811 -0600	checkout: moving from develop to feature/feature_branch2
+c593a03fd5f27abd0f35bff0c379a69a6f16a349 fc9754f200278176626b6512657b6ef74c79604c Jesus <jesflovel@gmail.com> 1643596889 -0600	commit: La pagina ya no tiene el error y esta lista para publicar la v1.0
+fc9754f200278176626b6512657b6ef74c79604c c593a03fd5f27abd0f35bff0c379a69a6f16a349 Jesus <jesflovel@gmail.com> 1643596931 -0600	checkout: moving from feature/feature_branch2 to develop
+c593a03fd5f27abd0f35bff0c379a69a6f16a349 fc9754f200278176626b6512657b6ef74c79604c Jesus <jesflovel@gmail.com> 1643596931 -0600	merge feature/feature_branch2: Fast-forward
+fc9754f200278176626b6512657b6ef74c79604c 24e3575d12ad07787fb61e0d05d29ed3dc9a1396 Jesus <jesflovel@gmail.com> 1643597384 -0600	checkout: moving from develop to master
+24e3575d12ad07787fb61e0d05d29ed3dc9a1396 fc9754f200278176626b6512657b6ef74c79604c Jesus <jesflovel@gmail.com> 1643597443 -0600	checkout: moving from master to release/1.0.0
+fc9754f200278176626b6512657b6ef74c79604c 594c0f693afb83af1085cd1ffbaf9b7a4e56c9b3 Jesus <jesflovel@gmail.com> 1643597591 -0600	commit: Se cambio el titulo a fuente grande y color rojo
+594c0f693afb83af1085cd1ffbaf9b7a4e56c9b3 24e3575d12ad07787fb61e0d05d29ed3dc9a1396 Jesus <jesflovel@gmail.com> 1643597608 -0600	checkout: moving from release/1.0.0 to master
+24e3575d12ad07787fb61e0d05d29ed3dc9a1396 845eab37b6a2293717d7d40e24868411c2dfdeb1 Jesus <jesflovel@gmail.com> 1643597608 -0600	merge release/1.0.0: Merge made by the 'ort' strategy.
+845eab37b6a2293717d7d40e24868411c2dfdeb1 845eab37b6a2293717d7d40e24868411c2dfdeb1 Jesus <jesflovel@gmail.com> 1643597627 -0600	checkout: moving from master to master
+845eab37b6a2293717d7d40e24868411c2dfdeb1 fc9754f200278176626b6512657b6ef74c79604c Jesus <jesflovel@gmail.com> 1643597639 -0600	checkout: moving from master to develop
+fc9754f200278176626b6512657b6ef74c79604c c9ddae08c43bfcf04bd7f9b26e3bad0d278c1e99 Jesus <jesflovel@gmail.com> 1643597639 -0600	merge 1.0.0: Merge made by the 'ort' strategy.
+c9ddae08c43bfcf04bd7f9b26e3bad0d278c1e99 c9ddae08c43bfcf04bd7f9b26e3bad0d278c1e99 Jesus <jesflovel@gmail.com> 1643597705 -0600	checkout: moving from develop to feature/feature_branch3
+c9ddae08c43bfcf04bd7f9b26e3bad0d278c1e99 7ff7fbf42080156b07ad0b40af056fc7476b1f46 Jesus <jesflovel@gmail.com> 1643597751 -0600	commit: Se prosigue con los cambios siguientes...
+7ff7fbf42080156b07ad0b40af056fc7476b1f46 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643598059 -0600	Branch: renamed refs/heads/feature/feature_branch3 to refs/heads/master
+0000000000000000000000000000000000000000 7ff7fbf42080156b07ad0b40af056fc7476b1f46 Jesus <jesflovel@gmail.com> 1643598059 -0600	Branch: renamed refs/heads/feature/feature_branch3 to refs/heads/master
+7ff7fbf42080156b07ad0b40af056fc7476b1f46 aaf18cd177fdc557adb92161ed469f9c2d34f005 Jesus <jesflovel@gmail.com> 1643598278 -0600	commit: first commit
+aaf18cd177fdc557adb92161ed469f9c2d34f005 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643598279 -0600	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 aaf18cd177fdc557adb92161ed469f9c2d34f005 Jesus <jesflovel@gmail.com> 1643598279 -0600	Branch: renamed refs/heads/master to refs/heads/main
+aaf18cd177fdc557adb92161ed469f9c2d34f005 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643598393 -0600	commit: first commit
+e268fb709e9da7375f6823c3840f1b8efd6660d2 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643598393 -0600	Branch: renamed refs/heads/main to refs/heads/main
+e268fb709e9da7375f6823c3840f1b8efd6660d2 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643598393 -0600	Branch: renamed refs/heads/main to refs/heads/main
+e268fb709e9da7375f6823c3840f1b8efd6660d2 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643598657 -0600	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643598657 -0600	Branch: renamed refs/heads/main to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643598923 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643598923 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643598982 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643598982 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643599011 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643599011 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643599340 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 e268fb709e9da7375f6823c3840f1b8efd6660d2 Jesus <jesflovel@gmail.com> 1643599340 -0600	Branch: renamed refs/heads/master to refs/heads/master
+e268fb709e9da7375f6823c3840f1b8efd6660d2 627090035272580af0139a7526acdbf41d750f63 Jesus <jesflovel@gmail.com> 1643599450 -0600	commit: first commit
+627090035272580af0139a7526acdbf41d750f63 0000000000000000000000000000000000000000 Jesus <jesflovel@gmail.com> 1643599451 -0600	Branch: renamed refs/heads/master to refs/heads/master
+627090035272580af0139a7526acdbf41d750f63 627090035272580af0139a7526acdbf41d750f63 Jesus <jesflovel@gmail.com> 1643599451 -0600	Branch: renamed refs/heads/master to refs/heads/master

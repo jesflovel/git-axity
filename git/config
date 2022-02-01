@@ -1,0 +1,26 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gitflow "branch"]
+	master = master
+	develop = develop
+[gitflow "prefix"]
+	feature = feature/
+	bugfix = bugfix/
+	release = release/
+	hotfix = hotfix/
+	support = support/
+	versiontag = 
+[gitflow "path"]
+	hooks = D:/practica-git/.git/hooks
+[gitflow "branch.feature/feature_branch"]
+	base = develop
+[gitflow "branch.feature/feature_branch3"]
+	base = develop
+[remote "origin"]
+	url = https://github.com/jesflovel/git-axity/practica.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

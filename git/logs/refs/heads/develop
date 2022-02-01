@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 34acd0f85252d64fc182a09e359edcfdac19cdad Jesus <jesflovel@gmail.com> 1643590917 -0600	branch: Created from master
+34acd0f85252d64fc182a09e359edcfdac19cdad 36ec63e5faba181696fa2a852794a88ec29b307e Jesus <jesflovel@gmail.com> 1643595484 -0600	merge feature/feature_branch: Fast-forward
+36ec63e5faba181696fa2a852794a88ec29b307e c593a03fd5f27abd0f35bff0c379a69a6f16a349 Jesus <jesflovel@gmail.com> 1643596635 -0600	merge hotfix_branch: Merge made by the 'ort' strategy.
+c593a03fd5f27abd0f35bff0c379a69a6f16a349 fc9754f200278176626b6512657b6ef74c79604c Jesus <jesflovel@gmail.com> 1643596931 -0600	merge feature/feature_branch2: Fast-forward
+fc9754f200278176626b6512657b6ef74c79604c c9ddae08c43bfcf04bd7f9b26e3bad0d278c1e99 Jesus <jesflovel@gmail.com> 1643597639 -0600	merge 1.0.0: Merge made by the 'ort' strategy.
